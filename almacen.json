@@ -17,6 +17,12 @@
       "nombre": "Rainman",
       "tipo": "Tortuga",
       "color": "verde"
+    },
+    {
+      "id": "3d1c",
+      "nombre": "",
+      "tipo": "",
+      "color": ""
     }
   ],
   "usuarios": [
@@ -33,26 +39,81 @@
       "email": "usuario2@mail.cl",
       "password": "maipu1234",
       "isactive": true
+    },
+    {
+      "id": "1bbd",
+      "username": "uwu",
+      "email": "qwe",
+      "password": "qweqwe",
+      "isactive": true
+    },
+    {
+      "id": "9101",
+      "username": "123",
+      "email": "123",
+      "password": "123",
+      "isactive": true
+    },
+    {
+      "id": "69b6",
+      "username": "",
+      "email": "",
+      "password": "",
+      "isactive": true
+    },
+    {
+      "id": "e186",
+      "username": "qewweqwe",
+      "email": "we@ewr",
+      "password": "qweqweqwe",
+      "isactive": true
     }
   ],
-  "qr": [
+  "eventos": [
     {
-      "id": "208b",
-      "nomMascota": "Rainman",
-      "tipoMascota": "Tortuga",
-      "username": "usuario1"
+      "eventoid": "1",
+      "nombreEvento": "Fiesta Halloween",
+      "descripcion": "Una fiesta temática de Halloween con disfraces, música y concursos de terror. Ven a disfrutar de una tarde llena de diversión y sorpresas en la Sede Maipú. ¡No olvides tu disfraz!",
+      "fecha": "30 de noviembre del 2024",
+      "hora": "14:00",
+      "lugar": "Sede Maipu",
+      "isactive": true
     },
     {
-      "id": "b95f",
-      "nomMascota": "Leon",
-      "tipoMascota": "Perro",
-      "username": "usuario1"
+      "eventoid": "2",
+      "nombreEvento": "Fiesta Japonesa",
+      "descripcion": "Celebra la cultura japonesa en un evento lleno de tradición, música, gastronomía y exhibiciones. Habrá demostraciones de arte y cultura, incluyendo bailes tradicionales y comida japonesa auténtica.",
+      "fecha": "21 de noviembre del 2024",
+      "hora": "17:00",
+      "lugar": "Sede Plaza Oeste",
+      "isactive": true
     },
     {
-      "id": "207d",
-      "nomMascota": "Princesa",
-      "tipoMascota": "Perro",
-      "username": "usuario1"
+      "eventoid": "3",
+      "nombreEvento": "Festival de Comida Chilena",
+      "descripcion": "Un festival gastronómico donde podrás degustar los platos más representativos de la cocina chilena, desde empanadas hasta cazuelas. Habrá puestos de comida, concursos de cocina y actividades culturales.",
+      "fecha": "5 de diciembre del 2024",
+      "hora": "12:00",
+      "lugar": "Parque Bicentenario",
+      "isactive": true
+    },
+    {
+      "eventoid": "4",
+      "nombreEvento": "Concierto de Navidad",
+      "descripcion": "Celebra la magia de la Navidad con un concierto especial que incluye coros, villancicos y orquesta en vivo. Un evento para toda la familia donde podrás disfrutar de la música clásica navideña en un ambiente acogedor.",
+      "fecha": "20 de diciembre del 2024",
+      "hora": "19:00",
+      "lugar": "Teatro Municipal",
+      "isactive": true
+    },
+    {
+      "eventoid": "5",
+      "nombreEvento": "Carrera Nocturna 10K",
+      "descripcion": "Una carrera nocturna de 10 kilómetros a través de las calles iluminadas de la ciudad. Todos los participantes recibirán camisetas fluorescentes y habrá premios para los primeros lugares. Evento ideal para corredores de todos los niveles.",
+      "fecha": "15 de noviembre del 2024",
+      "hora": "21:00",
+      "lugar": "Hipodromo",
+      "isactive": true
     }
   ]
 }
